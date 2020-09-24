@@ -1,0 +1,24 @@
+{
+  "name": "cypress-esfot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^5.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianeguez/cypress-esfot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianeguez/cypress-esfot/issues"
+  },
+  "homepage": "https://github.com/adrianeguez/cypress-esfot#readme"
+}
